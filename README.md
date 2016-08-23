@@ -16,7 +16,7 @@
 ###下準備その1
 まずは
 http://howml.org/download/xls2geojson.zip
-よりキロキオ用のjeojsonを簡単に書き出すことができるツールをダウンロードしてください。テンプレートエクセルファイルも同梱していますので、そちらでデータの作成を行ってください。
+よりキロキオ用のGeoJSONを簡単に書き出すことができるツールをダウンロードしてください。テンプレートエクセルファイルも同梱していますので、そちらでデータの作成を行ってください。
 下の「写真を撮る、保存する」で撮った写真の位置情報等を入力してください。
 
 ###下準備その2
@@ -41,12 +41,7 @@ http://howml.org/download/xls2geojson.zip
 詳しい詳細は随時更新しますので、キロキオの最新情報を[ハウモリ](https://www.facebook.com/howml/)Facebookページで確認ください。
 
 キロキオ制作委員会（順不同）
-古川 泰人 by Code for Sapporo
-川人 隆央 by Code for Sapporo
-三島 啓雄 by Code for Sapporo
-鈴木 祐亮 by Code for Sapporo
-山口 琢 by ハウモリ
-山形 巧哉 by ハウモリ
+古川 泰人 by Code for Sapporo / 川人 隆央 by Code for Sapporo / 三島 啓雄 by Code for Sapporo / 鈴木 祐亮 by Code for Sapporo / 山口 琢 by ハウモリ / 山形 巧哉 by ハウモリ
 
 ##注意
 もともとローカルで動かしながらと考えて作っていたので、各種ファイルがgithubのhttpsからひけてないので、独自ドメイン（サブドメイン）で動かすことを想定しています。gh-pagesにCNAMEを作成し、お手持ちのドメインから飛ばすか、ファイルを手元においてください。
