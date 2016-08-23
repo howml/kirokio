@@ -1,0 +1,20 @@
+/*font*/
+.normaltext{text-align: justify;text-justify: inter-ideograph;line-break: strict;} /*均等割*/
+.normaltext {margin:1em 1em 5em 1em;background: rgba(0, 0, 0, 0.8);} 
+.normaltext {padding:3em; line-height: 1.8em;letter-spacing: 2pt; } 
+.normaltext ul.txt{padding:1em 3em ;background: rgba(0, 0, 0, 0.4);} 
+.normaltext p.c{padding:3em ;text-align:center;background: rgba(0, 0, 0, 0.4);} 
+.sample { margin:0; padding:0; }
+.sample img { margin:0 10px 0 0; padding:0; }
+.sample ul { list-style-type: none; }
+.sample li{display: inline-block;}
+
+/*media*/
+@media (max-width: 450px) {
+.normaltext {padding:1em; line-height: 1.8em;letter-spacing: 2pt; } 
+.normaltext ul.txt{padding:1em 1em 1em 2em;background: rgba(0, 0, 0, 0.4);} 
+.normaltext p.c{padding:1em ;text-align:center;background: rgba(0, 0, 0, 0.4);} 
+.sample { margin:0; padding:0; }
+.sample img { margin:0 0 0 0; padding:0; }
+.sample li{display: inline-block;}
+}
